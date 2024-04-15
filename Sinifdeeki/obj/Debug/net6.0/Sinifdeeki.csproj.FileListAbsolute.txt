@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Sinifdeeki\bin\Debug\net6.0\Sinifdeeki.exe
+C:\Users\hp\source\repos\Sinifdeeki\bin\Debug\net6.0\Sinifdeeki.deps.json
+C:\Users\hp\source\repos\Sinifdeeki\bin\Debug\net6.0\Sinifdeeki.runtimeconfig.json
+C:\Users\hp\source\repos\Sinifdeeki\bin\Debug\net6.0\Sinifdeeki.dll
+C:\Users\hp\source\repos\Sinifdeeki\bin\Debug\net6.0\Sinifdeeki.pdb
+C:\Users\hp\source\repos\Sinifdeeki\obj\Debug\net6.0\Sinifdeeki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Sinifdeeki\obj\Debug\net6.0\Sinifdeeki.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Sinifdeeki\obj\Debug\net6.0\Sinifdeeki.AssemblyInfo.cs
+C:\Users\hp\source\repos\Sinifdeeki\obj\Debug\net6.0\Sinifdeeki.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Sinifdeeki\obj\Debug\net6.0\Sinifdeeki.dll
+C:\Users\hp\source\repos\Sinifdeeki\obj\Debug\net6.0\refint\Sinifdeeki.dll
+C:\Users\hp\source\repos\Sinifdeeki\obj\Debug\net6.0\Sinifdeeki.pdb
+C:\Users\hp\source\repos\Sinifdeeki\obj\Debug\net6.0\Sinifdeeki.genruntimeconfig.cache
+C:\Users\hp\source\repos\Sinifdeeki\obj\Debug\net6.0\ref\Sinifdeeki.dll

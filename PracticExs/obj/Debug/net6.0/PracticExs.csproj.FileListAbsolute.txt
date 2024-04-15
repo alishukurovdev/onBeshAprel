@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\PracticExs\bin\Debug\net6.0\PracticExs.exe
+C:\Users\hp\source\repos\PracticExs\bin\Debug\net6.0\PracticExs.deps.json
+C:\Users\hp\source\repos\PracticExs\bin\Debug\net6.0\PracticExs.runtimeconfig.json
+C:\Users\hp\source\repos\PracticExs\bin\Debug\net6.0\PracticExs.dll
+C:\Users\hp\source\repos\PracticExs\bin\Debug\net6.0\PracticExs.pdb
+C:\Users\hp\source\repos\PracticExs\obj\Debug\net6.0\PracticExs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\PracticExs\obj\Debug\net6.0\PracticExs.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\PracticExs\obj\Debug\net6.0\PracticExs.AssemblyInfo.cs
+C:\Users\hp\source\repos\PracticExs\obj\Debug\net6.0\PracticExs.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\PracticExs\obj\Debug\net6.0\PracticExs.dll
+C:\Users\hp\source\repos\PracticExs\obj\Debug\net6.0\refint\PracticExs.dll
+C:\Users\hp\source\repos\PracticExs\obj\Debug\net6.0\PracticExs.pdb
+C:\Users\hp\source\repos\PracticExs\obj\Debug\net6.0\PracticExs.genruntimeconfig.cache
+C:\Users\hp\source\repos\PracticExs\obj\Debug\net6.0\ref\PracticExs.dll
